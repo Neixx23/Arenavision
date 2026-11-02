@@ -1,0 +1,8 @@
+streamlit>=1.57
+opencv-python-headless
+numpy
+pandas
+pillow
+scikit-image
+scipy
+plotly
